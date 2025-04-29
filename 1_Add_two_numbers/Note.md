@@ -1,15 +1,12 @@
 # Intuition
-<!-- Describe your first thoughts on how to solve this problem. -->
+- idk man i just broke it down to sub-problems.
+- first add the lists element-wise then  figure out how to do the carry-over.
+- after adding, i used the modulus to break down any number greater than 9 into two numbers, the base stays in its place, and the extra is added to the next element in the list.
+- if i faced an IndexError, that means that i reached the final element and still have an extra carried value, so just add an element to the end of the list and set it to 1.
 
-# Approach
-<!-- Describe your approach to solving the problem. -->
-
-# Complexity
-- Time complexity: 2 ms, better than 98.85%
-<!-- Add your time complexity here, e.g. $$O(n)$$ -->
-
-- Space complexity: 12.62 mb better than 15.37%
-<!-- Add your space complexity here, e.g. $$O(n)$$ -->
+# Stats
+- Runtime: 48 ms Beats 5.22%
+- Memory: 12.48 MB Beats 84.63%
 
 # Code
 ```python []
@@ -19,12 +16,7 @@
 #         self.val = val
 #         self.next = next
 class Solution(object):
-    def get_length(node):
-        length = 0
-        while node:
-            length += 1
-            node = node.next
-        return length
+
 
     def addTwoNumbers(self, l1, l2):
         """
@@ -32,43 +24,45 @@ class Solution(object):
         :type l2: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-
-        def to_list(node):
+        def listnode_to_list(node):
             result = []
             while node:
                 result.append(node.val)
                 node = node.next
             return result
 
-        def to_linked_list(lst):
+        def list_to_listnode(lst):
             dummy = ListNode(0)
             current = dummy
             for val in lst:
                 current.next = ListNode(val)
                 current = current.next
             return dummy.next
+        list1 = listnode_to_list(l1)
+        list2 = listnode_to_list(l2)
 
-        a = to_list(l1)
-        b = to_list(l2)
+        # Your logic, applied to plain lists
+        if len(list1) >= len(list2):
+            longest = list1
+            shortest = list2
+        else:
+            longest = list2
+            shortest = list1
 
-        # Pad the shorter list with zeros
-        max_len = max(len(a), len(b))
-        a += [0] * (max_len - len(a))
-        b += [0] * (max_len - len(b))
+        for i in range(len(longest)):
+            if i < len(shortest):
+                longest[i] += shortest[i]
 
-        # Add corresponding elements
-        for i in range(max_len):
-            a[i] += b[i]
+        for x in range(len(longest)):
+            if longest[x] > 9:
+                try:
+                    longest[x + 1] += longest[x] // 10
+                except IndexError:
+                    longest.insert(x + 1, 1)
+                longest[x] = longest[x] % 10
 
-        # Handle carries
-        for i in range(max_len):
-            if a[i] > 9:
-                carry = a[i] // 10
-                a[i] %= 10
-                if i + 1 < max_len:
-                    a[i + 1] += carry
-                else:
-                    a.append(carry)
+        # Optional: print the intermediate result
+        print(longest)
 
-        return to_linked_list(a)
+        return list_to_listnode(longest)
 ```
