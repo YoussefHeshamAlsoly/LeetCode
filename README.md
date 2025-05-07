@@ -26,3 +26,9 @@ Problem of the day: Remove Duplicates from Sorted Array
 Problem link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=problem-list-v2&envId=213pf5j2
 Problem status: (Solved/Hint used ⚠️)
 ___
+## Day 5: 07-05-2025
+
+Problem of the day: Length of Last Word
+Problem link: https://leetcode.com/problems/length-of-last-word/submissions/1627904139/?envType=problem-list-v2&envId=213pf5j2
+Problem status: (Solved ✅)
+___
