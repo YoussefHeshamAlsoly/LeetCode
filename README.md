@@ -38,3 +38,14 @@ ___
 - Problem link: https://leetcode.com/problems/sqrtx/description/
 - Problem status: (Not solved ❌)
 ___
+## Day 7: 10-05-2025
+
+- Problem of the day: Climbing Stairs
+- Problem link: https://leetcode.com/problems/climbing-stairs/description/
+- Problem status: (Solved ✅)
+___
+## Day XXXXX
+- Problem of the day: XXXXX
+- Problem link: https://leetcode.com/problems/XXXXX/description/
+- Problem status: (Solved ✅ Not solved ❌ Solved/Hint used ⚠️)
+___
