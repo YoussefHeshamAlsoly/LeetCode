@@ -17,29 +17,29 @@ def maxProfit(prices):
     profit = 0
 
     for cur_ind, cur_val in enumerate(prices):
-        print(f"=> cur_val: {cur_val} | cur_ind: {cur_ind}")
-        print(f"=> min_val: {min_val} | min_ind: {min_ind}")
-        print(f"=> max_val: {max_val} | max_ind: {max_ind}\n")
+        # print(f"=> cur_val: {cur_val} | cur_ind: {cur_ind}")
+        # print(f"=> min_val: {min_val} | min_ind: {min_ind}")
+        # print(f"=> max_val: {max_val} | max_ind: {max_ind}\n")
 
         if min_val > cur_val:
             min_val, min_ind = cur_val, cur_ind
-            print("\tif min_val > cur_val:")
-            print(f"\t========= min_val: {min_val} | min_ind: {min_ind} ========= \n")
+            # print("\tif min_val > cur_val:")
+            # print(f"\t========= min_val: {min_val} | min_ind: {min_ind} ========= \n")
 
 
         if max_ind < min_ind:
             max_ind, max_val = 0, 0
         if max_val < cur_val:
             max_val, max_ind = cur_val, cur_ind
-            print("\tmax_val < cur_val")
-            print(f"\t========= max_val: {max_val} | max_ind: {max_ind} ========= \n")
+            # print("\tmax_val < cur_val")
+            # print(f"\t========= max_val: {max_val} | max_ind: {max_ind} ========= \n")
         
         if min_ind < max_ind:
             profit = max(profit, (max_val - min_val))
-            print(f"\t$$$$ profit: {profit} $$$$")
+            # print(f"\t$$$$ profit: {profit} $$$$")
 
     return profit
 
 
 prices = [7,1,5,3,6,4]
-print(maxProfit(prices))
+# print(maxProfit(prices))
