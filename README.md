@@ -49,8 +49,12 @@ ___
 - Problem link: https://leetcode.com/problems/climbing-stairs/description/
 - Problem status: (Solved ✅)
 ___
+## Day 8: 11-05-2025
+- Problem of the day: 118. Pascal's Triangle
+- Problem link: https://leetcode.com/problems/pascals-triangle/description/
+- Problem status: (Solved ✅)
+___
 ## Day XXXXX
 - Problem of the day: XXXXX
 - Problem link: https://leetcode.com/problems/XXXXX/description/
 - Problem status: (Solved ✅ Not solved ❌ Solved/Hint used ⚠️)
-___
