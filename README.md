@@ -73,16 +73,22 @@ ___
 ___
 ## Day 8: 11-05-2025
 ### Problem: 8
-
 - Name: 118. Pascal's Triangle
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/pascals-triangle/description/
 - status: (Solved ✅)
+
+### Problem: 9
+- Name: 121. Best Time to Buy and Sell Stock
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+- status: (Solved ✅)
+
 ___
 ## Day XXXXX
 ### Problem: 
 
 - Name: XXXXX
 - Type: Easy 🟢
-- link: https://leetcode.com/problems/XXXXX/description/
+- link: https://leetcode.com/problems/X-X-X-X-X/description/
 - status: (Solved ✅ Not solved ❌ Solved/Hint used ⚠️)
