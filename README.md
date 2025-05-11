@@ -7,6 +7,14 @@ This is my attempt to do 1 LeetCode problem a day, FOR A YEAR!
 - Finally mix.
 
 ___
+**Naming convention**
+- Directory
+    - 1_P1_LC2_Add_two_numbers
+        - 1: Day number
+        - P1: Problem number (could have multiple problem in the same day)
+        - LC2: "LeetCode" problem number two
+        - Add_two_numbers: The actual problem name divided by an underscore instead of a whitespace.
+___
 ## Day 1: 29-04-2025
 ### Problem: 1
 
