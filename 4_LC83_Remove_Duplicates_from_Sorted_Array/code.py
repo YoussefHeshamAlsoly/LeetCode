@@ -2,19 +2,17 @@
 # # The following is a script that actually works
 
 # class Solution(object):
-#     def removeDuplicates(self, nums):
-#         """
-#         :type nums: List[int]
-#         :rtype: int
-#         """
-#         if not nums:
-#             return 0
-#         insert_position = 1
-#         for unique in range(1, len(nums)):
-#             if nums[unique] != nums[unique-1]:
-#                 nums[insert_position] = nums[unique]
-#                 insert_position += 1
-#         return insert_position
+#     def deleteDuplicates(self, head):
+#         if not head:
+#             return head
+#         current = head
+#         while current and current.next:
+#             if current.val == current.next.val:
+#                 current.next = current.next.next
+#             else:
+#                 current = current.next
+
+#         return head
 
 
 
