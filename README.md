@@ -85,10 +85,18 @@ ___
 - status: (Solved ✅)
 
 ___
+## Day 9: 12-05-2025
+### Problem: 10
+
+- Name: 169. Majority Element
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/majority-element/description/
+- status: (Solved ✅)
+___
 ## Day XXXXX
 ### Problem: 
 
 - Name: XXXXX
 - Type: Easy 🟢
-- link: https://leetcode.com/problems/X-X-X-X-X/description/
+- link: https://leetcode.com/problems/XXXXX/description/
 - status: (Solved ✅ Not solved ❌ Solved/Hint used ⚠️)
