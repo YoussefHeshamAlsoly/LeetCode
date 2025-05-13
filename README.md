@@ -1,7 +1,7 @@
 # LeetCode
 
 This is my attempt to do 1 LeetCode problem a day, FOR A YEAR!
-- First, do 90 easy.
+- First, do 90 easy. (11 done)
 - Secondly, do 90 medium.
 - Then, do 90 hard.
 - Finally mix.
@@ -16,7 +16,7 @@ ___
         - Add_two_numbers: The actual problem name divided by an underscore instead of a whitespace.
 ___
 ## Day 1: 29-04-2025
-### Problem: 1
+### Problem No. 1
 
 - Name: 2. Add Two Numbers
 - Type: Easy 🟢
@@ -24,7 +24,7 @@ ___
 - status: (Solved ✅)
 ___
 ## Day 2: 30-04-2025
-### Problem: 2
+### Problem No. 2
 
 - Name: 3. Longest Substring Without Repeating Characters
 - Type: Easy 🟢
@@ -32,7 +32,7 @@ ___
 - status: (Not solved ❌)
 ___
 ## Day 3: 01-05-2025
-### Problem: 3
+### Problem No. 3
 
 - Name: 67. Add Binary
 - Type: Easy 🟢
@@ -40,7 +40,7 @@ ___
 - status: (Solved ✅)
 ___
 ## Day 4: 03-05-2025
-### Problem: 4
+### Problem No. 4
 
 - Name: 83. Remove Duplicates from Sorted Array
 - Type: Easy 🟢
@@ -48,7 +48,7 @@ ___
 - status: (Solved/Hint used ⚠️)
 ___
 ## Day 5: 07-05-2025
-### Problem: 5
+### Problem No. 5
 
 - Name: 58. Length of Last Word
 - Type: Easy 🟢
@@ -56,7 +56,7 @@ ___
 - status: (Solved ✅)
 ___
 ## Day 6: 09-05-2025
-### Problem: 6
+### Problem No. 6
 
 - Name: 69. Sqrt(x)
 - Type: Easy 🟢
@@ -64,7 +64,7 @@ ___
 - status: (Not solved ❌)
 ___
 ## Day 7: 10-05-2025
-### Problem: 7
+### Problem No. 7
 
 - Name: 70. Climbing Stairs
 - Type: Easy 🟢
@@ -72,13 +72,13 @@ ___
 - status: (Solved ✅)
 ___
 ## Day 8: 11-05-2025
-### Problem: 8
+### Problem No. 8
 - Name: 118. Pascal's Triangle
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/pascals-triangle/description/
 - status: (Solved ✅)
 
-### Problem: 9
+### Problem No. 9
 - Name: 121. Best Time to Buy and Sell Stock
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
@@ -86,15 +86,23 @@ ___
 
 ___
 ## Day 9: 12-05-2025
-### Problem: 10
+### Problem No. 10
 
 - Name: 169. Majority Element
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/majority-element/description/
 - status: (Solved ✅)
 ___
-## Day XXXXX
-### Problem: 
+## Day 10: 13-05-2025
+### Problem No. 11
+
+- Name: 217. Contains Duplicate
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/contains-duplicate/description/
+- status: (Solved ✅)
+___
+## Day XXXXX:
+### Problem No. 
 
 - Name: XXXXX
 - Type: Easy 🟢
