@@ -101,6 +101,14 @@ ___
 - link: https://leetcode.com/problems/contains-duplicate/description/
 - status: (Solved ✅)
 ___
+## Day 11:
+### Problem No. 12
+
+- Name: 219. Contains Duplicate II
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/contains-duplicate-ii/description/
+- status: (Solved/Hint used ⚠️)
+___
 ## Day XXXXX:
 ### Problem No. 
 
