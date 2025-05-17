@@ -109,6 +109,14 @@ ___
 - link: https://leetcode.com/problems/contains-duplicate-ii/description/
 - status: (Solved/Hint used ⚠️)
 ___
+## Day 12:
+### Problem No. 13
+
+- Name: 14. Longest Common Prefix
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/longest-common-prefix/description/
+- status: (Not solved ❌)
+___
 ## Day XXXXX:
 ### Problem No. 
 
