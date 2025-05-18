@@ -109,7 +109,7 @@ ___
 - link: https://leetcode.com/problems/contains-duplicate-ii/description/
 - status: (Solved/Hint used ⚠️)
 ___
-## Day 12:
+## Day 12: 17-05-2025
 ### Problem No. 13
 
 - Name: 14. Longest Common Prefix
@@ -117,7 +117,15 @@ ___
 - link: https://leetcode.com/problems/longest-common-prefix/description/
 - status: (Not solved ❌)
 ___
-## Day XXXXX:
+## Day 13: 18-05-2025
+### Problem No. 14
+
+- Name: 258. Add Digits
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/add-digits/description/
+- status: (Solved ✅)
+___
+## Day XXXXX: 18-05-2025
 ### Problem No. 
 
 - Name: XXXXX
