@@ -125,6 +125,14 @@ ___
 - link: https://leetcode.com/problems/add-digits/description/
 - status: (Solved ✅)
 ___
+## Day 13: 18-05-2025
+### Problem No. 15
+
+- Name: 191. Number of 1 Bits
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/number-of-1-bits/description/
+- status: (Solved ✅)
+___
 ## Day XXXXX: 18-05-2025
 ### Problem No. 
 
