@@ -124,8 +124,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/add-digits/description/
 - status: Solved ✅
-___
-## Day 13: 18-05-2025
+
 ### Problem No. 15
 
 - Name: 191. Number of 1 Bits
@@ -139,6 +138,13 @@ ___
 - Name: 283. Move Zeroes
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/move-zeroes/description/
+- status: Solved ✅
+
+### Problem No. 17
+
+- Name: 231. Power of Two
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/power-of-two/description/
 - status: Solved ✅
 ___
 ## Day XXXXX: 20-05-2025
