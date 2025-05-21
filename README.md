@@ -147,7 +147,15 @@ ___
 - link: https://leetcode.com/problems/power-of-two/description/
 - status: Solved ✅
 ___
-## Day XXXXX: 20-05-2025
+## Day 15: 21-05-2025
+### Problem No. 18
+
+- Name: 383. Ransom Note
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/ransom-note/description/
+- status: Solved ✅
+___
+## Day XXXXX: 22-05-2025
 ### Problem No. 
 
 - Name: XXXXX
