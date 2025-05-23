@@ -155,10 +155,18 @@ ___
 - link: https://leetcode.com/problems/ransom-note/description/
 - status: Solved ✅
 ___
-## Day XXXXX: 22-05-2025
+## Day 16: 23-05-2025
+### Problem No. 19
+
+- Name: 190. Reverse Bits
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/reverse-bits/description/
+- status: Solved ✅
+___
+## Day XXXXX: 24-05-2025
 ### Problem No. 
 
 - Name: XXXXX
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/XXXXX/description/
-- status: (Solved ✅ Not solved ❌ Solved/Hint used ⚠️)
+- status: Solved ✅ Not solved ❌ Solved/Hint used ⚠️
