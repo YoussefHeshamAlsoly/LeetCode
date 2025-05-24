@@ -163,7 +163,15 @@ ___
 - link: https://leetcode.com/problems/reverse-bits/description/
 - status: Solved ✅
 ___
-## Day XXXXX: 24-05-2025
+## Day 17: 24-05-2025
+### Problem No. 20
+
+- Name: 27. Remove Element
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/remove-element/description/
+- status: Solved ✅ Not solved ❌ Solved/Hint used ⚠️
+___
+## Day XXXXX: 25-05-2025
 ### Problem No. 
 
 - Name: XXXXX
