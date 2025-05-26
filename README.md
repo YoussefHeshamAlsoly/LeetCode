@@ -171,7 +171,15 @@ ___
 - link: https://leetcode.com/problems/remove-element/description/
 - status: Solved ✅ Not solved ❌ Solved/Hint used ⚠️
 ___
-## Day XXXXX: 25-05-2025
+## Day 18: 26-05-2025
+### Problem No. 21
+
+- Name: 242. Valid Anagram
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/valid-anagram/description/
+- status: Solved ✅
+___
+## Day XXXXX: 27-05-2025
 ### Problem No. 
 
 - Name: XXXXX
