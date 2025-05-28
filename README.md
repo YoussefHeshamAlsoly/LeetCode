@@ -179,7 +179,15 @@ ___
 - link: https://leetcode.com/problems/valid-anagram/description/
 - status: Solved ✅
 ___
-## Day XXXXX: 27-05-2025
+## Day 19: 27-05-2025
+### Problem No. 22
+
+- Name: 389. Find the Difference
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/find-the-difference/description/
+- status: Solved ✅
+___
+## Day XXXXX: 29-05-2025
 ### Problem No. 
 
 - Name: XXXXX
