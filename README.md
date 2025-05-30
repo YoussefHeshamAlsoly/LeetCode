@@ -187,7 +187,15 @@ ___
 - link: https://leetcode.com/problems/find-the-difference/description/
 - status: Solved ✅
 ___
-## Day XXXXX: 29-05-2025
+## Day 20: 30-05-2025
+### Problem No. 23
+
+- Name: 412. Fizz Buzz
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/fizz-buzz/description
+- status: Solved ✅
+___
+## Day XXXXX: 31-05-2025
 ### Problem No. 
 
 - Name: XXXXX
