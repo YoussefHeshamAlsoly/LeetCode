@@ -195,6 +195,14 @@ ___
 - link: https://leetcode.com/problems/fizz-buzz/description
 - status: Solved ✅
 ___
+## Day 21: 31-05-2025
+### Problem No. 24
+
+- Name: 344. Reverse String
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/reverse-string/description/
+- status: Solved ✅
+___
 ## Day XXXXX: 31-05-2025
 ### Problem No. 
 
