@@ -203,7 +203,22 @@ ___
 - link: https://leetcode.com/problems/reverse-string/description/
 - status: Solved ✅
 ___
-## Day XXXXX: 31-05-2025
+## Day 22: 1-06-2025
+### Problem No. 25
+
+- Name: 414. Third Maximum Number
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/third-maximum-number/description/
+- status: Solved ✅
+
+### Problem No. 26
+
+- Name: 434. Number of Segments in a String
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/number-of-segments-in-a-string/description/
+- status: Solved ✅
+___
+## Day XXXXX: 2-06-2025
 ### Problem No. 
 
 - Name: XXXXX
