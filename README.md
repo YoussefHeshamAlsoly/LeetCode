@@ -218,6 +218,14 @@ ___
 - link: https://leetcode.com/problems/number-of-segments-in-a-string/description/
 - status: Solved ✅
 ___
+## Day 23: 2-06-2025
+### Problem No. 27
+
+- Name: 599. Minimum Index Sum of Two Lists
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/
+- status: Solved ✅
+___
 ## Day XXXXX: 2-06-2025
 ### Problem No. 
 
