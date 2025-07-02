@@ -226,6 +226,14 @@ ___
 - link: https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/
 - status: Solved ✅
 ___
+## Day 24: 2-07-2025
+### Problem No. 28
+
+- Name: 345. Reverse Vowels of a String
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/reverse-vowels-of-a-string/description/
+- status: Solved ✅
+___
 ## Day XXXXX: 2-06-2025
 ### Problem No. 
 
