@@ -234,6 +234,14 @@ ___
 - link: https://leetcode.com/problems/reverse-vowels-of-a-string/description/
 - status: Solved ✅
 ___
+## Day 25: 2-06-2025
+### Problem No. 29
+
+- Name: 448. Find All Numbers Disappeared in an Array
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
+- status: Solved/Hint used ⚠️
+___
 ## Day XXXXX: 2-06-2025
 ### Problem No. 
 
