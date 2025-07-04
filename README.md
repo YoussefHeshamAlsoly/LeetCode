@@ -242,6 +242,14 @@ ___
 - link: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
 - status: Solved/Hint used ⚠️
 ___
+## Day 26: 2-06-2025
+### Problem No. 30
+
+- Name: 728. Self Dividing Numbers
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/self-dividing-numbers/description/
+- status: Solved ✅
+___
 ## Day XXXXX: 2-06-2025
 ### Problem No. 
 
