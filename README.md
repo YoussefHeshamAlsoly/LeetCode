@@ -1,7 +1,7 @@
 # LeetCode
 
-This is my attempt to do 1 LeetCode problem a day, FOR A YEAR!
-- First, do 90 easy. (11 done)
+This is my attempt to do 1 LeetCode problem a day, for idk how long.
+- First, do 90 easy. (31 Done)
 - Secondly, do 90 medium.
 - Then, do 90 hard.
 - Finally mix.
@@ -11,7 +11,7 @@ ___
 - Directory
     - 1_P1_LC2_Add_two_numbers
         - 1: Day number
-        - P1: Problem number (could have multiple problem in the same day)
+        - P1: Problem number (could have multiple problems done in the same day)
         - LC2: "LeetCode" problem number two
         - Add_two_numbers: The actual problem name divided by an underscore instead of a whitespace.
 ___
@@ -234,7 +234,7 @@ ___
 - link: https://leetcode.com/problems/reverse-vowels-of-a-string/description/
 - status: Solved ✅
 ___
-## Day 25: 2-06-2025
+## Day 25: 3-07-2025
 ### Problem No. 29
 
 - Name: 448. Find All Numbers Disappeared in an Array
@@ -242,7 +242,7 @@ ___
 - link: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
 - status: Solved/Hint used ⚠️
 ___
-## Day 26: 2-06-2025
+## Day 26: 4-07-2025
 ### Problem No. 30
 
 - Name: 728. Self Dividing Numbers
@@ -250,7 +250,15 @@ ___
 - link: https://leetcode.com/problems/self-dividing-numbers/description/
 - status: Solved ✅
 ___
-## Day XXXXX: 2-06-2025
+## Day 27: 5-07-2025
+### Problem No. 31
+
+- Name: 744. Find Smallest Letter Greater Than Target
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/
+- status: Solved ✅
+___
+## Day XXXXX: 6-07-2025
 ### Problem No. 
 
 - Name: XXXXX
