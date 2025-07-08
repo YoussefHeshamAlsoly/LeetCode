@@ -244,14 +244,22 @@ ___
 - status: Solved ✅
 ___
 ## Day 28: 07-07-2025
-### Problem No. 
+### Problem No. 32
 
 - Name: 884. Uncommon Words from Two Sentences
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/uncommon-words-from-two-sentences/description/
 - status: Solved ✅
 ___
-## Day XXXXX: 6-07-2025
+## Day 29: 08-07-2025
+### Problem No. 33
+
+- Name: 844. Backspace String Compare
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/backspace-string-compare/description/
+- status: Not solved ❌
+___
+## Day XXXXX: 09-07-2025
 ### Problem No. 
 
 - Name: XXXXX
