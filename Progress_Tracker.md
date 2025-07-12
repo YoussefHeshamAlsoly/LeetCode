@@ -259,7 +259,15 @@ ___
 - link: https://leetcode.com/problems/backspace-string-compare/description/
 - status: Not solved ❌
 ___
-## Day XXXXX: 09-07-2025
+## Day 30: 12-07-2025
+### Problem No. 34
+
+- Name: 1002. Find Common Characters
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/find-common-characters/description/
+- status: Solved/Hint used ⚠️
+___
+## Day XXXXX: 13-07-2025
 ### Problem No. 
 
 - Name: XXXXX
