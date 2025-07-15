@@ -267,6 +267,14 @@ ___
 - link: https://leetcode.com/problems/find-common-characters/description/
 - status: Solved/Hint used ⚠️
 ___
+## Day 31: 15-07-2025
+### Problem No. 35
+
+- Name: 867. Transpose Matrix
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/transpose-matrix/description/
+- status: Solved ✅
+___
 ## Day XXXXX: 13-07-2025
 ### Problem No. 
 
