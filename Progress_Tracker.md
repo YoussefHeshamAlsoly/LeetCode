@@ -275,6 +275,14 @@ ___
 - link: https://leetcode.com/problems/transpose-matrix/description/
 - status: Solved ✅
 ___
+## Day 32: 22-07-2025
+### Problem No. 36
+
+- Name: 3110. Score of a String
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/score-of-a-string/description/
+- status: Solved ✅
+___
 ## Day XXXXX: 13-07-2025
 ### Problem No. 
 
