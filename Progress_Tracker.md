@@ -283,7 +283,15 @@ ___
 - link: https://leetcode.com/problems/score-of-a-string/description/
 - status: Solved ✅
 ___
-## Day XXXXX: 13-07-2025
+## Day 33: 24-07-2025
+### Problem No. 37
+
+- Name: 506. Relative Ranks
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/relative-ranks/description/
+- status: Solved ✅
+___
+## Day XXXXX: XX-07-2025
 ### Problem No. 
 
 - Name: XXXXX
