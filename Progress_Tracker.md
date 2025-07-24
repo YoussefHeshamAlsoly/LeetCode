@@ -1,5 +1,11 @@
 # "Easy" Problems
-___
+
+## Status
+The status of each problem could be:
+- Solved ✅
+- Not solved ❌
+- Solved/Hint used ⚠️
+
 ## Day 1: 29-04-2025
 ### Problem No. 1
 
@@ -7,7 +13,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/add-two-numbers/description/
 - status: Solved ✅
-___
+
 ## Day 2: 30-04-2025
 ### Problem No. 2
 
@@ -15,7 +21,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
 - status: Not solved ❌
-___
+
 ## Day 3: 01-05-2025
 ### Problem No. 3
 
@@ -23,7 +29,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/add-binary/description/
 - status: Solved ✅
-___
+
 ## Day 4: 03-05-2025
 ### Problem No. 4
 
@@ -31,7 +37,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 - status: Solved/Hint used ⚠️
-___
+
 ## Day 5: 07-05-2025
 ### Problem No. 5
 
@@ -39,7 +45,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/length-of-last-word/description/
 - status: Solved ✅
-___
+
 ## Day 6: 09-05-2025
 ### Problem No. 6
 
@@ -47,7 +53,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/sqrtx/description/
 - status: Not solved ❌
-___
+
 ## Day 7: 10-05-2025
 ### Problem No. 7
 
@@ -55,7 +61,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/climbing-stairs/description/
 - status: Solved ✅
-___
+
 ## Day 8: 11-05-2025
 ### Problem No. 8
 - Name: 118. Pascal's Triangle
@@ -69,7 +75,7 @@ ___
 - link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 - status: Solved ✅
 
-___
+
 ## Day 9: 12-05-2025
 ### Problem No. 10
 
@@ -77,7 +83,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/majority-element/description/
 - status: Solved ✅
-___
+
 ## Day 10: 13-05-2025
 ### Problem No. 11
 
@@ -85,7 +91,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/contains-duplicate/description/
 - status: Solved ✅
-___
+
 ## Day 11: 14-05-2025
 ### Problem No. 12
 
@@ -93,7 +99,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/contains-duplicate-ii/description/
 - status: Solved/Hint used ⚠️
-___
+
 ## Day 12: 17-05-2025
 ### Problem No. 13
 
@@ -101,7 +107,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/longest-common-prefix/description/
 - status: Not solved ❌
-___
+
 ## Day 13: 18-05-2025
 ### Problem No. 14
 
@@ -116,7 +122,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/number-of-1-bits/description/
 - status: Solved ✅
-___
+
 ## Day 14: 19-05-2025
 ### Problem No. 16
 
@@ -131,7 +137,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/power-of-two/description/
 - status: Solved ✅
-___
+
 ## Day 15: 21-05-2025
 ### Problem No. 18
 
@@ -139,7 +145,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/ransom-note/description/
 - status: Solved ✅
-___
+
 ## Day 16: 23-05-2025
 ### Problem No. 19
 
@@ -147,7 +153,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/reverse-bits/description/
 - status: Solved ✅
-___
+
 ## Day 17: 24-05-2025
 ### Problem No. 20
 
@@ -155,7 +161,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/remove-element/description/
 - status: Solved ✅ Not solved ❌ Solved/Hint used ⚠️
-___
+
 ## Day 18: 26-05-2025
 ### Problem No. 21
 
@@ -163,7 +169,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/valid-anagram/description/
 - status: Solved ✅
-___
+
 ## Day 19: 27-05-2025
 ### Problem No. 22
 
@@ -171,7 +177,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/find-the-difference/description/
 - status: Solved ✅
-___
+
 ## Day 20: 30-05-2025
 ### Problem No. 23
 
@@ -179,7 +185,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/fizz-buzz/description
 - status: Solved ✅
-___
+
 ## Day 21: 31-05-2025
 ### Problem No. 24
 
@@ -187,7 +193,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/reverse-string/description/
 - status: Solved ✅
-___
+
 ## Day 22: 01-06-2025
 ### Problem No. 25
 
@@ -202,7 +208,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/number-of-segments-in-a-string/description/
 - status: Solved ✅
-___
+
 ## Day 23: 02-06-2025
 ### Problem No. 27
 
@@ -210,7 +216,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/
 - status: Solved ✅
-___
+
 ## Day 24: 02-07-2025
 ### Problem No. 28
 
@@ -218,7 +224,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/reverse-vowels-of-a-string/description/
 - status: Solved ✅
-___
+
 ## Day 25: 03-07-2025
 ### Problem No. 29
 
@@ -226,7 +232,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
 - status: Solved/Hint used ⚠️
-___
+
 ## Day 26: 04-07-2025
 ### Problem No. 30
 
@@ -234,7 +240,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/self-dividing-numbers/description/
 - status: Solved ✅
-___
+
 ## Day 27: 05-07-2025
 ### Problem No. 31
 
@@ -242,7 +248,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/
 - status: Solved ✅
-___
+
 ## Day 28: 07-07-2025
 ### Problem No. 32
 
@@ -250,7 +256,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/uncommon-words-from-two-sentences/description/
 - status: Solved ✅
-___
+
 ## Day 29: 08-07-2025
 ### Problem No. 33
 
@@ -258,7 +264,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/backspace-string-compare/description/
 - status: Not solved ❌
-___
+
 ## Day 30: 12-07-2025
 ### Problem No. 34
 
@@ -266,7 +272,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/find-common-characters/description/
 - status: Solved/Hint used ⚠️
-___
+
 ## Day 31: 15-07-2025
 ### Problem No. 35
 
@@ -274,7 +280,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/transpose-matrix/description/
 - status: Solved ✅
-___
+
 ## Day 32: 22-07-2025
 ### Problem No. 36
 
@@ -282,7 +288,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/score-of-a-string/description/
 - status: Solved ✅
-___
+
 ## Day 33: 24-07-2025
 ### Problem No. 37
 
@@ -290,7 +296,7 @@ ___
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/relative-ranks/description/
 - status: Solved ✅
-___
+
 ## Day XXXXX: XX-07-2025
 ### Problem No. 
 
