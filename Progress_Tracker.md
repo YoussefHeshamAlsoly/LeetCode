@@ -297,6 +297,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/relative-ranks/description/
 - status: Solved ✅
 
+## Day 34: 27-07-2025
+### Problem No. 38
+
+- Name: 2894. Divisible and Non-divisible Sums Difference
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/
+- status: Solved ✅
+
 ## Day XXXXX: XX-07-2025
 ### Problem No. 
 
