@@ -297,13 +297,21 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/relative-ranks/description/
 - status: Solved ✅
 
-## Day 34: 27-07-2025
+## Day 34: 26-07-2025
 ### Problem No. 38
 
 - Name: 2894. Divisible and Non-divisible Sums Difference
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/
 - status: Solved ✅
+
+## Day 35: 28-07-2025
+### Problem No. 39
+
+- Name: 168. Excel Sheet Column Title
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/excel-sheet-column-title/description/
+- status: Solved/Hint used ⚠️
 
 ## Day XXXXX: XX-07-2025
 ### Problem No. 
