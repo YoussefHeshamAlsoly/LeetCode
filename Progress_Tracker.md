@@ -328,6 +328,13 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/power-of-four/description/
 - status: Solved ✅
 
+### Problem No. 42
+
+- Name: 520. Detect Capital
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/detect-capital/description/
+- status: Solved ✅
+
 ## Day XXXXX: XX-07-2025
 ### Problem No. 
 
