@@ -29,7 +29,8 @@ The status of each problem could be:
 - Rank: 2,179,097 (found here https://leetcode.com/u/Youssef-Hesham-Alsoly/#:~:text=Youssef%2DHesham%2DAlsoly-,Rank,-2%2C179%2C097)
 - Progress: 47 Problems - Beats 59.8% (found here https://leetcode.com/progress/#:~:text=Summary-,Total,-Solved)
 
-Ranks
+
+**Rank records**
 | Rank | Date-time |
 |----------|----------|
 | 2,179,097 | 30/7/2025 11:15 am|
