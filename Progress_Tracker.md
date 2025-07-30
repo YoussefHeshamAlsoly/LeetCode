@@ -313,6 +313,21 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/excel-sheet-column-title/description/
 - status: Solved/Hint used ⚠️
 
+## Day 35: 30-07-2025
+### Problem No. 40
+
+- Name: 338. Counting Bits
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/counting-bits/description/
+- status: Solved ✅
+
+### Problem No. 41
+
+- Name: 342. Power of Four
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/power-of-four/description/
+- status: Solved ✅
+
 ## Day XXXXX: XX-07-2025
 ### Problem No. 
 
