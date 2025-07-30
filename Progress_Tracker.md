@@ -335,6 +335,13 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/detect-capital/description/
 - status: Solved ✅
 
+### Problem No. 43
+
+- Name: 387. First Unique Character in a String
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/first-unique-character-in-a-string/description/
+- status: Solved ✅
+
 ## Day XXXXX: XX-07-2025
 ### Problem No. 
 
