@@ -26,12 +26,12 @@ The status of each problem could be:
 
 ## LeetCode Stats
 **Last Updated: 30-07-2025**
-- Rank: 2,179,097 (found here https://leetcode.com/u/Youssef-Hesham-Alsoly/#:~:text=Youssef%2DHesham%2DAlsoly-,Rank,-2%2C179%2C097)
-- Progress: 47 Problems - Beats 59.8% (found here https://leetcode.com/progress/#:~:text=Summary-,Total,-Solved)
+- Rank: 2,125,027 (found here https://leetcode.com/u/Youssef-Hesham-Alsoly/#:~:text=Youssef%2DHesham%2DAlsoly-,Rank,-2%2C179%2C097)
+- Percentage: 47 Problems - Beats 59.8% (found here https://leetcode.com/progress/#:~:text=Summary-,Total,-Solved)
 
 
-**Rank records**
-| Rank | Date-time |
-|----------|----------|
-| 2,179,097 | 30/7/2025 11:15 am|
-| 2,125,027 | 30/7/2025 05:10 pm|
+**Rank/Percentage records**
+| Rank | Percentage | Date-time |
+|----------|----------|----------|
+| 2,179,097 | 47 Problems - Beats 59.8% | 30/7/2025 11:15 am |
+| 2,125,027 | 48 Problems - Beats 60.4% | 30/7/2025 05:10 pm |
