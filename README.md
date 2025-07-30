@@ -23,3 +23,8 @@ The status of each problem could be:
 - Solved ✅
 - Not solved ❌
 - Solved/Hint used ⚠️
+
+## LeetCode Stats
+**Last Updated: 30-07-2025**
+- Rank: 2,179,097 (found here https://leetcode.com/u/Youssef-Hesham-Alsoly/#:~:text=Youssef%2DHesham%2DAlsoly-,Rank,-2%2C179%2C097)
+- Progress: 47 Problems - Beats 59.8% (found here https://leetcode.com/progress/#:~:text=Summary-,Total,-Solved)
