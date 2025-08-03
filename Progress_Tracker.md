@@ -313,7 +313,7 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/excel-sheet-column-title/description/
 - status: Solved/Hint used ⚠️
 
-## Day 35: 30-07-2025
+## Day 36: 30-07-2025
 ### Problem No. 40
 
 - Name: 338. Counting Bits
@@ -342,7 +342,15 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/first-unique-character-in-a-string/description/
 - status: Solved ✅
 
-## Day XXXXX: XX-07-2025
+## Day 37: 03-08-2025
+### Problem No. 
+
+- Name: 350. Intersection of Two Arrays II
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/intersection-of-two-arrays-ii/description/
+- status: Solved ✅
+
+## Day XXXXX: XX-08-2025
 ### Problem No. 
 
 - Name: XXXXX

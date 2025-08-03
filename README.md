@@ -33,6 +33,7 @@ The status of each problem could be:
 **Rank/Percentage records**
 | Rank | Percentage | Date-time |
 |----------|----------|----------|
-| 2,179,097 | 47 Problems - Beats 59.8% | 30/7/2025 11:15 am |
-| 2,125,027 | 48 Problems - Beats 60.4% | 30/7/2025 05:10 pm |
-| 2,125,027 | 48 Problems - Beats 61% | 30/7/2025 08:44 pm |
+| 2,179,097 | 47 Problems - Beats 59.8% | 30/07/2025 11:15 am |
+| 2,125,027 | 48 Problems - Beats 60.4% | 30/07/2025 05:10 pm |
+| 2,125,027 | 48 Problems - Beats 61% | 30/07/2025 08:44 pm |
+| 2,078,822 | 50 Problems - Beats 61.7% | 03/08/2025 06:28 pm |
