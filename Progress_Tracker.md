@@ -350,6 +350,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/intersection-of-two-arrays-ii/description/
 - status: Solved ✅
 
+## Day 38: 04-08-2025
+### Problem No. 
+
+- Name: 543. Diameter of Binary Tree
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/diameter-of-binary-tree/description/
+- status: Not solved ❌
+
 ## Day XXXXX: XX-08-2025
 ### Problem No. 
 
