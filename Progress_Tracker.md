@@ -358,6 +358,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/diameter-of-binary-tree/description/
 - status: Not solved ❌
 
+## Day 39: 06-08-2025
+### Problem No. 
+
+- Name: 796. Rotate String
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/rotate-string/description/
+- status: Solved ✅
+
 ## Day XXXXX: XX-08-2025
 ### Problem No. 
 
