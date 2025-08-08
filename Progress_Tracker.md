@@ -366,6 +366,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/rotate-string/description/
 - status: Solved ✅
 
+## Day 40: 08-08-2025
+### Problem No. 
+
+- Name: 747. Largest Number At Least Twice of Others
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/
+- status: Solved ✅
+
 ## Day XXXXX: XX-08-2025
 ### Problem No. 
 
