@@ -343,7 +343,7 @@ The status of each problem could be:
 - status: Solved ✅
 
 ## Day 37: 03-08-2025
-### Problem No. 
+### Problem No. 44
 
 - Name: 350. Intersection of Two Arrays II
 - Type: Easy 🟢
@@ -351,7 +351,7 @@ The status of each problem could be:
 - status: Solved ✅
 
 ## Day 38: 04-08-2025
-### Problem No. 
+### Problem No. 45
 
 - Name: 543. Diameter of Binary Tree
 - Type: Easy 🟢
@@ -359,7 +359,7 @@ The status of each problem could be:
 - status: Not solved ❌
 
 ## Day 39: 06-08-2025
-### Problem No. 
+### Problem No. 46
 
 - Name: 796. Rotate String
 - Type: Easy 🟢
@@ -367,12 +367,28 @@ The status of each problem could be:
 - status: Solved ✅
 
 ## Day 40: 08-08-2025
-### Problem No. 
+### Problem No. 47
 
 - Name: 747. Largest Number At Least Twice of Others
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/
 - status: Solved ✅
+
+## Day 41: 11-08-2025
+### Problem No. 48
+
+- Name: 557. Reverse Words in a String lll
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/reverse-words-in-a-string-iii/description/
+- status: Solved ✅
+
+## Day 42: 13-08-2025
+### Problem No. 49
+
+- Name: 628. Maximum Product of Three Numbers
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/maximum-product-of-three-numbers/description/
+- status: Not solved ❌
 
 ## Day XXXXX: XX-08-2025
 ### Problem No. 
