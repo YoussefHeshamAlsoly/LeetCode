@@ -39,3 +39,4 @@ The status of each problem could be:
 | 2,078,822 | 50 Problems - Beats 61.7% | 03/08/2025 06:28 pm |
 | 2,051,799 | 51 Problems - Beats 62.3% | 06/08/2025 06:28 pm |
 | 2,028,086 | 52 Problems - Beats 62.9% | 08/08/2025 10:22 pm |
+| 1,985,922 | 53 Problems - Beats 63.5% | 13/08/2025 3:26 pm |
