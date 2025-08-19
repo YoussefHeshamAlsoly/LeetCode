@@ -390,6 +390,21 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/maximum-product-of-three-numbers/description/
 - status: Not solved ❌
 
+## Day 43: 19-08-2025
+### Problem No. 50
+
+- Name: 1037. Valid Boomerang
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/valid-boomerang/description/
+- status: Solved ✅
+
+### Problem No. 51
+
+- Name: 504. Base 7
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/base-7/description/
+- status: Solved ✅
+
 ## Day XXXXX: XX-08-2025
 ### Problem No. 
 
