@@ -405,6 +405,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/base-7/description/
 - status: Solved ✅
 
+## Day 44: 20-08-2025
+### Problem No. 52
+
+- Name: 836. Rectangle Overlap
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/rectangle-overlap/description/
+- status: Solved/Hint used ⚠️
+
 ## Day XXXXX: XX-08-2025
 ### Problem No. 
 
