@@ -20,37 +20,6 @@ def longestCommonPrefix(strs):
     return answer
 
 
-
-
-# This was my original code
-
-#     if len(strs) == 0:
-#         return ""
-#     elif len(strs) == 1:
-#         return strs[0]
-    
-#     base = [i for i in reversed(strs[0])]
-#     answer = []
-
-#     for word in (strs[1:]):
-#         print(f"Entering a word: {word}")
-#         word = [i for i in reversed(word)]
-#         for x in range(min(len(word), len(base))):
-#             if base[-1]==word[-1]:
-#                 answer.append(base[-1])
-#                 base.pop()
-#                 word.pop()
-#                 print(f"base: {base}")
-#                 print(f"word: {word}")
-#             else:
-#                 if answer:
-#                     answer.pop()
-
-
-#     return "".join(answer)
-
-
-
 words = ["flower","flow","flight"]
 
-print(f">{longestCommonPrefix(words)}<")
+print(f"{longestCommonPrefix(words)}")
