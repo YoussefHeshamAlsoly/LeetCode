@@ -106,7 +106,7 @@ The status of each problem could be:
 - Name: 14. Longest Common Prefix
 - Type: Easy 🟢
 - link: https://leetcode.com/problems/longest-common-prefix/description/
-- status: Not solved ❌
+- status: Solved/Hint used ⚠️
 
 ## Day 13: 18-05-2025
 ### Problem No. 14
