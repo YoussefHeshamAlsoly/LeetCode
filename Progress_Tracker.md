@@ -413,6 +413,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/rectangle-overlap/description/
 - status: Solved/Hint used ⚠️
 
+## Day 45: 22-08-2025
+### Problem No. 54
+
+- Name: 1812. Determine Color of a Chessboard Square
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/determine-color-of-a-chessboard-square/description/
+- status: Solved ✅
+
 ## Day XXXXX: XX-08-2025
 ### Problem No. 
 
