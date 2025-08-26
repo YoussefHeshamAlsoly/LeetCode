@@ -421,6 +421,21 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/determine-color-of-a-chessboard-square/description/
 - status: Solved ✅
 
+## Day 46: 26-08-2025
+### Problem No. 55
+
+- Name: 1929. Concatenation of Array
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/concatenation-of-array/description/
+- status: Solved ✅
+
+### Problem No. 56
+
+- Name: 1108. Defanging an IP Address
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/defanging-an-ip-address/description/
+- status: Solved ✅
+
 ## Day XXXXX: XX-08-2025
 ### Problem No. 
 
