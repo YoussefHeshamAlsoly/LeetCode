@@ -436,6 +436,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/defanging-an-ip-address/description/
 - status: Solved ✅
 
+## Day 47: 27-08-2025
+### Problem No. 57
+
+- Name: 1491. Average Salary Excluding the Minimum and Maximum Salary
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/description/
+- status: Solved ✅
+
 ## Day XXXXX: XX-08-2025
 ### Problem No. 
 

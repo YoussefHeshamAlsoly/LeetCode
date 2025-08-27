@@ -44,3 +44,4 @@ The status of each problem could be:
 | 1,929,028📉🟢 | 57 Problems - Beats 65.5% | 21/08/2025 07:03 pm |
 | 1,908,483📉🟢 | 58 Problems - Beats 66.0% | 22/08/2025 06:31 pm |
 | 1,892,861📉🟢 | 60 Problems - Beats 67.0% | 26/08/2025 09:25 pm |
+| 1,852,041📉🟢 | 61 Problems - Beats 67.4% | 27/08/2025 06:45 pm |
