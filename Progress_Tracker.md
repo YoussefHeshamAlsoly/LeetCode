@@ -444,6 +444,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/description/
 - status: Solved ✅
 
+## Day 48: 28-08-2025
+### Problem No. 58
+
+- Name: 1317. Convert Integer to the Sum of Two No-Zero Integers
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/description/
+- status: Solved ✅
+
 ## Day XXXXX: XX-08-2025
 ### Problem No. 
 
