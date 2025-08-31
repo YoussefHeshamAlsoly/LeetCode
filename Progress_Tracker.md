@@ -452,7 +452,15 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/description/
 - status: Solved ✅
 
-## Day XXXXX: XX-08-2025
+## Day 49: 31-08-2025
+### Problem No. 59
+
+- Name: 1385. Find the Distance Value Between Two Arrays
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/
+- status: Solved ✅
+
+## Day XXXXX: XX-09-2025
 ### Problem No. 
 
 - Name: XXXXX
