@@ -460,6 +460,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/
 - status: Solved ✅
 
+## Day 50: 01-09-2025
+### Problem No. 60
+
+- Name: 914. X of a Kind in a Deck of Cards
+- Type: Easy 🟢
+- link: https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/
+- status: Solved ✅
+
 ## Day XXXXX: XX-09-2025
 ### Problem No. 
 
