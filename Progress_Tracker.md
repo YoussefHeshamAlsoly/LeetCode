@@ -468,10 +468,18 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/
 - status: Solved ✅
 
+## Day 51: 09-09-2025
+### Problem No. 61
+
+- Name: 3. Longest Substring Without Repeating Characters
+- Type: Med 🟡
+- link: https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+- status: Solved ✅
+
 ## Day XXXXX: XX-09-2025
 ### Problem No. 
 
 - Name: XXXXX
-- Type: Easy 🟢
+- Type: Med 🟡
 - link: https://leetcode.com/problems/XXXXX/description/
 - status: Solved ✅ Not solved ❌ Solved/Hint used ⚠️

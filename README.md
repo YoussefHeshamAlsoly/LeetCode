@@ -28,8 +28,16 @@ The status of each problem could be:
 - Rank: found here https://leetcode.com/u/Youssef-Hesham-Alsoly/#:~:text=Youssef%2DHesham%2DAlsoly-,Rank,-2%2C179%2C097
 - Percentage: found here https://leetcode.com/progress/#:~:text=Summary-,Total,-Solved
 
+___
+**Rank/Percentage records on Medium 🟡**
+| Rank | Percentage | Date-time |
+|----------|----------|----------|
+| 1,792,142📉🟢 | 64 Problems - Beats 68.7% | 09/09/2025 06:00 pm |
 
-**Rank/Percentage records**
+
+___
+
+**Rank/Percentage records on Easy 🟢**
 | Rank | Percentage | Date-time |
 |----------|----------|----------|
 | 2,179,097📉🟢 | 47 Problems - Beats 59.8% | 30/07/2025 11:15 am |
