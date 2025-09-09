@@ -4,10 +4,9 @@ This is my attempt to do 1 LeetCode problem a day, for idk how long.
 And while it sounds easy enough, the goal is not solving LeetCode problems in on itself,
 it's rather the consistency of doing it that is the end goal.
 
-- First, do 90 easy. (In progress)
-- Secondly, do 90 medium.
-- Then, do 90 hard.
-- Finally mix.
+- First, do 50 easy. (Done)
+- Then, do 50 medium. (In progress)
+- Finally, do ♾️ hard.
 
 
 ## Naming convention
