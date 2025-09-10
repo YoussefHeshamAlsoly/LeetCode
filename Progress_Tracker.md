@@ -476,6 +476,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
 - status: Solved ✅
 
+## Day 52: 10-09-2025
+### Problem No. 64 (idk where the extra 2 came from, but I'm gonna follow whatever number showing up on LeetCode)
+
+- Name: 7. Reverse Integer
+- Type: Med 🟡
+- link: https://leetcode.com/problems/reverse-integer/description/
+- status: Solved ✅
+
 ## Day XXXXX: XX-09-2025
 ### Problem No. 
 
