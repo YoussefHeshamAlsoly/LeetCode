@@ -484,6 +484,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/reverse-integer/description/
 - status: Solved ✅
 
+## Day 53: 11-09-2025
+### Problem No. 65
+
+- Name: 43. Multiply Strings
+- Type: Med 🟡
+- link: https://leetcode.com/problems/multiply-strings/description/
+- status: Solved ✅
+
 ## Day XXXXX: XX-09-2025
 ### Problem No. 
 
