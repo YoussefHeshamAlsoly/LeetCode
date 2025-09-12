@@ -492,6 +492,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/multiply-strings/description/
 - status: Solved ✅
 
+## Day 54: 12-09-2025
+### Problem No. 66
+
+- Name: 5. Longest Palindromic Substring
+- Type: Med 🟡
+- link: https://leetcode.com/problems/longest-palindromic-substring/description/
+- status: Solved/Hint used ⚠️
+
 ## Day XXXXX: XX-09-2025
 ### Problem No. 
 
