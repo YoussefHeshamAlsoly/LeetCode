@@ -21,7 +21,9 @@ day_num = str(int(last_file[0])+1)
 problem_name = input("Insert problem name: ")
 local_dir_name = day_num+"_P1_LC"+problem_name[:].replace(".", "").replace(" ", "_")
 
-problem_link_name = problem_name[3:].replace(" ", "-").lower()
+problem_link_name = problem_name.split(".")
+problem_link_name = problem_link_name[1].lstrip().replace(" ", "-").lower()
+print(problem_link_name)
 full_link = f"https://leetcode.com/problems/{problem_link_name}/description/"
 
 
