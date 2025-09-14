@@ -500,6 +500,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/longest-palindromic-substring/description/
 - status: Solved/Hint used ⚠️
 
+## Day 55: 14-09-2025
+### Problem No. 67
+
+- Name: 11. Container With Most Water
+- Type: Med 🟡
+- link: https://leetcode.com/problems/container-with-most-water/description/
+- status: Solved ✅
+
 ## Day XXXXX: XX-09-2025
 ### Problem No. 
 
