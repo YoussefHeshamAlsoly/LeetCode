@@ -508,6 +508,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/container-with-most-water/description/
 - status: Solved ✅
 
+## Day 56: 15-09-2025
+### Problem No. 68
+
+- Name: 17. Letter Combinations of a Phone Number
+- Type: Med 🟡
+- link: https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
+- status: Solved ✅
+
 ## Day XXXXX: XX-09-2025
 ### Problem No. 
 
