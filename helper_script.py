@@ -23,7 +23,6 @@ local_dir_name = day_num+"_P1_LC"+problem_name[:].replace(".", "").replace(" ", 
 
 problem_link_name = problem_name.split(".")
 problem_link_name = problem_link_name[1].lstrip().replace(" ", "-").lower()
-print(problem_link_name)
 full_link = f"https://leetcode.com/problems/{problem_link_name}/description/"
 
 
