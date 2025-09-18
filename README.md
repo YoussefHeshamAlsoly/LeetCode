@@ -25,7 +25,7 @@ The status of each problem could be:
 
 ## LeetCode Stats
 **Last Updated: 30-07-2025**
-- Rank: found here https://leetcode.com/u/Youssef-Hesham-Alsoly/#:~:text=Youssef%2DHesham%2DAlsoly-,Rank,-2%2C179%2C097
+- Rank: found here https://leetcode.com/u/YoussefHeshamAlsoly/#:~:text=Youssef%2DHesham%2DAlsoly-,Rank,-2%2C179%2C097
 - Percentage: found here https://leetcode.com/progress/#:~:text=Summary-,Total,-Solved
 
 ___
@@ -38,6 +38,7 @@ ___
 | 1,761,974📉🟢 | 66 Problems - Beats 69.5% | 14/09/2025 05:46 pm |
 | 1,763,334📈🔴 | 67 Problems - Beats 70.0% | 15/09/2025 03:30 pm |
 | 1,746,721📉🟢 | 68 Problems - Beats 70.3% | 16/09/2025 09:58 pm |
+| 1,731,825📉🟢 | 69 Problems - Beats 70.7% | 16/09/2025 11:27 pm |
 
 
 

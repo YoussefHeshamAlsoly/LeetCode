@@ -62,6 +62,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
 - status: Solved ✅
 
+## Day 58: 18-09-2025
+### Problem No. 69
+
+- Name: 50. Pow(x, n)
+- Type: Med 🟡
+- link: https://leetcode.com/problems/powx-n/description/
+- status: Solved/Hint used ⚠️
+
 ## Day XXXXX: XX-09-2025
 ### Problem No. 
 
