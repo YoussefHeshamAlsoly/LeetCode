@@ -70,6 +70,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/powx-n/description/
 - status: Solved/Hint used ⚠️
 
+## Day 59: 20-09-2025
+### Problem No. 70
+
+- Name: 53. Maximum Subarray
+- Type: Med 🟡
+- link: https://leetcode.com/problems/maximum-subarray/description/
+- status: Solved/Hint used ⚠️
+
 ## Day XXXXX: XX-09-2025
 ### Problem No. 
 
