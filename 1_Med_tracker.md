@@ -78,6 +78,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/maximum-subarray/description/
 - status: Solved/Hint used ⚠️
 
+## Day 60: 21-09-2025
+### Problem No. 71
+
+- Name: 73. Set Matrix Zeroes
+- Type: Med 🟡
+- link: https://leetcode.com/problems/set-matrix-zeroes/description/
+- status: Solved ✅
+
 ## Day XXXXX: XX-09-2025
 ### Problem No. 
 
