@@ -14,8 +14,9 @@ def get_file_names_in_directory(directory_path):
 
 
 files = get_file_names_in_directory(directory)
-last_file = files[-1].split("_")
-day_num = str(int(last_file[0])+1)
+last_file_num = max([int(i.split("_")[0]) for i in files])
+
+day_num = str(last_file_num+1)
 
 
 problem_name = input("Insert problem name: ")
