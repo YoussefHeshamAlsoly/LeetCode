@@ -86,6 +86,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/set-matrix-zeroes/description/
 - status: Solved ✅
 
+## Day 61: 22-09-2025
+### Problem No. 72
+
+- Name: 215. Kth Largest Element in an Array
+- Type: Med 🟡
+- link: https://leetcode.com/problems/kth-largest-element-in-an-array/description/
+- status: Solved ✅
+
 ## Day XXXXX: XX-09-2025
 ### Problem No. 
 
