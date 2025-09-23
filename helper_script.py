@@ -12,6 +12,15 @@ def get_file_names_in_directory(directory_path):
             file_names.append(entry)
     return file_names
 
+def remove_chars(string_input:str):
+    try:
+        string_input = string_input.replace("(", "").replace(")", "")
+        string_input = string_input.replace(",", "")
+    except Exception as e:
+        pass
+    return string_input
+
+
 
 files = get_file_names_in_directory(directory)
 last_file_num = max([int(i.split("_")[0]) for i in files])
@@ -20,21 +29,15 @@ day_num = str(last_file_num+1)
 
 
 problem_name = input("Insert problem name: ")
-local_dir_name = day_num+"_P1_LC"+problem_name[:].replace(".", "").replace(" ", "_")
 
-try:
-    local_dir_name = local_dir_name.replace("(", "").replace(")", "")
-    local_dir_name = local_dir_name.replace(",", "")
-except Exception as e:
-    pass
+local_dir_name = day_num+"_P1_LC"+problem_name[:].replace(".", "").replace(" ", "_")
+local_dir_name = remove_chars(local_dir_name)
 
 problem_link_name = problem_name.split(".")
 problem_link_name = problem_link_name[1].lstrip().replace(" ", "-").lower()
-try:
-    problem_link_name = problem_link_name.replace("(", "").replace(")", "")
-    problem_link_name = problem_link_name.replace(",", "")
-except Exception as e:
-    pass
+problem_link_name = remove_chars(problem_link_name)
+
+
 full_link = f"https://leetcode.com/problems/{problem_link_name}/description/"
 
 
