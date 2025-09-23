@@ -94,6 +94,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/kth-largest-element-in-an-array/description/
 - status: Solved ✅
 
+## Day 62: 23-09-2025
+### Problem No. 73
+
+- Name: 122. Best Time to Buy and Sell Stock II
+- Type: Med 🟡
+- link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
+- status: Solved ✅
+
 ## Day XXXXX: XX-09-2025
 ### Problem No. 
 
