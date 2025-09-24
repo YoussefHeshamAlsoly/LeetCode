@@ -102,6 +102,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
 - status: Solved ✅
 
+## Day 63: 24-09-2025
+### Problem No. 74
+
+- Name: 165. Compare Version Numbers
+- Type: Med 🟡
+- link: https://leetcode.com/problems/compare-version-numbers/description/
+- status: Solved ✅ Not solved ❌ Solved/Hint used ⚠️
+
 ## Day XXXXX: XX-09-2025
 ### Problem No. 
 
