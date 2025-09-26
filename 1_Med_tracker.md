@@ -118,6 +118,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/rotate-image/description/
 - status: Solved ✅
 
+## Day 67: 26-09-2025
+### Problem No. 76
+
+- Name: 179. Largest Number
+- Type: Med 🟡
+- link: https://leetcode.com/problems/largest-number/description/
+- status: Solved/Hint used ⚠️
+
 ## Day XXXXX: XX-09-2025
 ### Problem No. 
 
