@@ -126,6 +126,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/largest-number/description/
 - status: Solved/Hint used ⚠️
 
+## Day 68: 27-09-2025
+### Problem No. 77
+
+- Name: 164. Maximum Gap
+- Type: Med 🟡
+- link: https://leetcode.com/problems/maximum-gap/description/
+- status: Solved ✅
+
 ## Day XXXXX: XX-09-2025
 ### Problem No. 
 
