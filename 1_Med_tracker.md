@@ -134,6 +134,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/maximum-gap/description/
 - status: Solved ✅
 
+## Day 69: 28-09-2025
+### Problem No. 78
+
+- Name: 33. Search in Rotated Sorted Array
+- Type: Med 🟡
+- link: https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+- status: Solved/Hint used ⚠️
+
 ## Day XXXXX: XX-09-2025
 ### Problem No. 
 
