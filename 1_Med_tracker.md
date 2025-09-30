@@ -142,6 +142,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 - status: Solved/Hint used ⚠️
 
+## Day 70: 30-09-2025
+### Problem No. 79
+
+- Name: 201. Bitwise AND of Numbers Range
+- Type: Med 🟡
+- link: https://leetcode.com/problems/bitwise-and-of-numbers-range/description/
+- status: Solved/Hint used ⚠️
+
 ## Day XXXXX: XX-09-2025
 ### Problem No. 
 
