@@ -45,3 +45,4 @@ os.mkdir(local_dir_name)
 with open(f"{local_dir_name}/code.py", "w") as file:
     file.write(f"# {problem_name}\n")
     file.write(f"# {full_link}")
+    file.write("\n")
