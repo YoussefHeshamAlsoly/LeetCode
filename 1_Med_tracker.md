@@ -150,7 +150,15 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/bitwise-and-of-numbers-range/description/
 - status: Solved/Hint used ⚠️
 
-## Day XXXXX: XX-09-2025
+## Day 71: 01-10-2025
+### Problem No. 80
+
+- Name: 442. Find All Duplicates in an Array
+- Type: Med 🟡
+- link: https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
+- status: Solved ✅
+
+## Day XXXXX: XX-10-2025
 ### Problem No. 
 
 - Name: XXXXX
