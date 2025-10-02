@@ -27,29 +27,16 @@ The status of each problem could be:
 **Last Updated: 30-07-2025**
 - Rank: found here https://leetcode.com/u/YoussefHeshamAlsoly/#:~:text=Youssef%2DHesham%2DAlsoly-,Rank,-2%2C179%2C097
 - Percentage: found here https://leetcode.com/progress/#:~:text=Summary-,Total,-Solved
+- Update the progress table every 10 days.
 
 ___
 **Rank/Percentage records on Medium 🟡**
 | Rank | Percentage | Date-time |
 |----------|----------|----------|
 | 1,793,652📉🟢 | 64 Problems - Beats 68.7% | 10/09/2025 06:54 pm |
-| 1,795,217📈🔴 | 65 Problems - Beats 69.1% | 11/09/2025 10:36 pm |
-| 1,777,632📉🟢 | 66 Problems - Beats 69.5% | 12/09/2025 04:44 pm |
-| 1,761,974📉🟢 | 66 Problems - Beats 69.5% | 14/09/2025 05:46 pm |
-| 1,763,334📈🔴 | 67 Problems - Beats 70.0% | 15/09/2025 03:30 pm |
-| 1,746,721📉🟢 | 68 Problems - Beats 70.3% | 16/09/2025 09:58 pm |
-| 1,731,825📉🟢 | 69 Problems - Beats 70.7% | 16/09/2025 11:27 pm |
 | 1,717,173📉🟢 | 70 Problems - Beats 71.1% | 20/09/2025 06:18 pm |
-| 1,701,150📉🟢 | 71 Problems - Beats 71.5% | 21/09/2025 05:43 pm |
-| 1,685,379📉🟢 | 72 Problems - Beats 71.9% | 22/09/2025 09:02 pm |
-| 1,670,291📉🟢 | 73 Problems - Beats 72.2% | 23/09/2025 06:17 pm |
-| 1,655,476📉🟢 | 74 Problems - Beats 72.6% | 24/09/2025 06:51 pm |
-| 1,640,998📉🟢 | 75 Problems - Beats 72.9% | 25/09/2025 09:20 pm |
-| 1,626,187📉🟢 | 76 Problems - Beats 73.3% | 26/09/2025 11:20 pm |
-| 1,611,400📉🟢 | 77 Problems - Beats 73.6% | 27/09/2025 08:39 pm |
-| 1,597,006📉🟢 | 78 Problems - Beats 74.0% | 28/09/2025 05:02 pm |
 | 1,584,186📉🟢 | 79 Problems - Beats 74.3% | 30/09/2025 05:22 pm |
-| 1,570,658📉🟢 | 80 Problems - Beats 74.6% | 01/10/2025 03:30 pm |
+| X,XXX,XXX📉🟢 | XX Problems - Beats XX.X% | 10/10/2025 XX:XX pm |
 
 
 

@@ -158,6 +158,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
 - status: Solved ✅
 
+## Day 72: 02-10-2025
+### Problem No. 81
+
+- Name: 172. Factorial Trailing Zeroes
+- Type: Med 🟡
+- link: https://leetcode.com/problems/factorial-trailing-zeroes/description/
+- status: Solved ✅
+
 ## Day XXXXX: XX-10-2025
 ### Problem No. 
 
