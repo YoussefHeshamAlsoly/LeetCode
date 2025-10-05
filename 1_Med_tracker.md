@@ -166,6 +166,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/factorial-trailing-zeroes/description/
 - status: Solved ✅
 
+## Day 73: 05-10-2025
+### Problem No. 82
+
+- Name: 319. Bulb Switcher
+- Type: Med 🟡
+- link: https://leetcode.com/problems/bulb-switcher/description/
+- status: Solved ✅
+
 ## Day XXXXX: XX-10-2025
 ### Problem No. 
 
