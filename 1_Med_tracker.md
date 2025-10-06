@@ -174,6 +174,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/bulb-switcher/description/
 - status: Solved ✅
 
+## Day 74: 06-10-2025
+### Problem No. 83
+
+- Name: 227. Basic Calculator II
+- Type: Med 🟡
+- link: https://leetcode.com/problems/basic-calculator-ii/description/
+- status: Solved ✅
+
 ## Day XXXXX: XX-10-2025
 ### Problem No. 
 
