@@ -182,6 +182,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/basic-calculator-ii/description/
 - status: Solved ✅
 
+## Day 75: XX-10-2025
+### Problem No. 84
+
+- Name: 56. Merge Intervals
+- Type: Med 🟡
+- link: https://leetcode.com/problems/merge-intervals/description/
+- status: Solved ✅
+
 ## Day XXXXX: XX-10-2025
 ### Problem No. 
 
