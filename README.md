@@ -36,7 +36,8 @@ ___
 | 1,793,652📉🟢 | 64 Problems - Beats 68.7% | 10/09/2025 06:54 pm |
 | 1,717,173📉🟢 | 70 Problems - Beats 71.1% | 20/09/2025 06:18 pm |
 | 1,584,186📉🟢 | 79 Problems - Beats 74.3% | 30/09/2025 05:22 pm |
-| X,XXX,XXX📉🟢 | XX Problems - Beats XX.X% | 10/10/2025 XX:XX pm |
+| 1,512,548📉🟢 | 84 Problems - Beats 75.8% | 12/10/2025 05:34 pm |
+| X,XXX,XXX📉🟢 | XX Problems - Beats XX.X% | 22/10/2025 XX:XX pm |
 
 
 

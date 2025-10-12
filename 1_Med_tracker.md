@@ -182,13 +182,21 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/basic-calculator-ii/description/
 - status: Solved ✅
 
-## Day 75: XX-10-2025
+## Day 75: 07-10-2025
 ### Problem No. 84
 
 - Name: 56. Merge Intervals
 - Type: Med 🟡
 - link: https://leetcode.com/problems/merge-intervals/description/
 - status: Solved ✅
+
+## Day 76: 12-10-2025
+### Problem No. 84
+
+- Name: 238. Product of Array Except Self
+- Type: Med 🟡
+- link: https://leetcode.com/problems/product-of-array-except-self/description/
+- status: Solved/Hint used ⚠️
 
 ## Day XXXXX: XX-10-2025
 ### Problem No. 
