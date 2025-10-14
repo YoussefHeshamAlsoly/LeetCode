@@ -198,6 +198,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/product-of-array-except-self/description/
 - status: Solved/Hint used ⚠️
 
+## Day 77: XX-10-2025
+### Problem No. 85
+
+- Name: 396. Rotate Function
+- Type: Med 🟡
+- link: https://leetcode.com/problems/rotate-function/description/
+- status: Solved ✅
+
 ## Day XXXXX: XX-10-2025
 ### Problem No. 
 
