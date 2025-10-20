@@ -214,6 +214,14 @@ The status of each problem could be:
 - link: https://leetcode.com/problems/single-number-ii/description/
 - status: Solved ✅
 
+## Day 79: 20-10-2025
+### Problem No. 86
+
+- Name: 223. Rectangle Area
+- Type: Med 🟡
+- link: https://leetcode.com/problems/rectangle-area/description/
+- status: Not solved ❌
+
 ## Day XXXXX: XX-10-2025
 ### Problem No. 
 
