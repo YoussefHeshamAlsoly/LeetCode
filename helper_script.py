@@ -71,4 +71,4 @@ os.mkdir(target_path)
 
 with open(f"{target_path}/code.py", "w") as file:
     file.write(f"# {problem_name}\n")
-    file.write(f"# {full_link}\n")
+    file.write(f"# {full_link}\n\n\n\n")
