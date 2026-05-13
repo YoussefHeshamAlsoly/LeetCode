@@ -69,6 +69,13 @@ full_link = f"https://leetcode.com/problems/{problem_link_name}/description/"
 target_path = os.path.join(directory, local_dir_name)
 os.mkdir(target_path)
 
+colors = '''
+RED = "\033[31m"
+GREEN = "\033[32m"
+END = "\033[0m"
+'''
+
 with open(f"{target_path}/code.py", "w") as file:
     file.write(f"# {problem_name}\n")
     file.write(f"# {full_link}\n\n\n\n")
+    file.write(colors)
