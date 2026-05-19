@@ -69,7 +69,7 @@ full_link = f"https://leetcode.com/problems/{problem_link_name}/description/"
 target_path = os.path.join(directory, local_dir_name)
 os.mkdir(target_path)
 
-colors = '''
+colors = r'''
 RED = "\033[31m"
 GREEN = "\033[32m"
 END = "\033[0m"
